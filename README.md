@@ -1,0 +1,1 @@
+# jenkins-mydiary-msa
